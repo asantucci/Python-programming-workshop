@@ -15,9 +15,9 @@ Note that the course notes in this repository are intended to be read through in
 Note: if upon opening the appendix notebook, it stats Notebook Not Found try clicking Authorize with GitHub, then log in with GitHub: a new pop-up window will appear where you should select asantucci/Python-Workshop as the Repository and main as the Branch, and then (scroll down to) click on file 4_Appendix_Scikit_learn.ipynb. The notebook should then open in Colab!
 
 ## About the Instructor
-[Github Profile Page](https://asantucci.github.io/)
 
 ![Andreas](/assets/img/profile.jpg){:style="max-width:30%;"}
+[Github Profile Page](https://asantucci.github.io/)
 
 I am a computational mathematician, currently practicing Data Science and Engineering at Google and Lecturing at Stanford University. At Google, I work on YouTube recommendation algorithms and core statistical inference, and at Stanford I teach graduate students in STEM fields how to develop software in Python and C++. My research interests formerly lay at the intersection of causal inference and machine learning, but more recently I have been developing a passion for (deep) learning algorithms. In general, I strongly believe in leveraging AI for social good. I serve as a volunteer board member for the Society for Industrial and Applied Mathematics where I specialize in the education committee. I've been privileged to work closely under the guidance of Nobel Laureates on two separate occasions (Daniel McFadden and Guido Imbens).
 
